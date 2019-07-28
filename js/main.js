@@ -1,7 +1,7 @@
 /* global axios */
 
 // /////////////////////
-// 
+// 宣告
 // /////////////////////
 const HOST_URL = 'https://movie-list.alphacamp.io/'
 const INDEX_URL = 'api/v1/movies'
